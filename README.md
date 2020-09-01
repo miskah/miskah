@@ -10,3 +10,12 @@
 * 🐟 𝒹𝑜𝒸𝓀𝑒𝓇
 * 🍭 𝒞𝐼/𝒞𝒟
 * 💀 𝒮𝒬𝐿
+
+
+ˢᵃᵈ ᵗʳᵘᵗʰ ᵃᵇᵒᵘᵗ ᵐʸ ᵖᵘᵇˡⁱᶜ ᵃᶜᵗⁱᵛⁱᵗʸ ᵒⁿ ᴳⁱᵗʰᵘᵇ
+
+![This is kinda sad](https://github-readme-stats.vercel.app/api?username=miskah&show_icons=true&theme=chartreuse-dark)
+
+![This is kinda sad too](https://github-readme-stats.vercel.app/api/top-langs/?username=miskah)
+
+TODO: 𝙼𝚊𝚔𝚎 𝚖𝚢 𝚘𝚠𝚗 𝚐𝚘𝚍𝚍𝚊𝚖𝚗 𝚘𝚞𝚝𝚙𝚞𝚝 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚠𝚎𝚋-𝚊𝚙𝚙.
