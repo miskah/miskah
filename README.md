@@ -1,16 +1,11 @@
-### Hi there 👋
+### 𝔚𝔬𝔯𝔨𝔦𝔫𝔤 𝔞𝔱 𝔖𝔬𝔣𝔱𝔴𝔞𝔯𝔢 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔪𝔢𝔫𝔱
 
-<!--
-**miskah/miskah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+【﻿Ｉ　ｈａｖｅ　ａ　ｌｉｔｔｌｅ　ｇｒａｓｐ　ｏｎ　ｆｏｌｌｏｗｉｎｇ　ｔｏｐｉｃｓ】
+* 🎀 𝒶𝓃𝑔𝓊𝓁𝒶𝓇
+* 🐲 𝓅𝒽𝓅
+* 🐼 𝒞
+* 🐍 𝓅𝓎𝓉𝒽𝑜𝓃
+* 🐒 𝒿𝒶𝓋𝒶𝓈𝒸𝓇𝒾𝓅𝓉
+* 👽 𝓃𝑜𝒹𝑒
+* 🐟 𝒹𝑜𝒸𝓀𝑒𝓇
+* 🍭 𝒞𝐼/𝒞𝒟
